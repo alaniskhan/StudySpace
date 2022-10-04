@@ -1,0 +1,1 @@
+web: gunicorn studyspace.wsgi --log-file -
